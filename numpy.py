@@ -1,1 +1,0 @@
-#numpy is numerical python library.for working with numbers and arrays. It provides a powerful array object and a collection of functions for performing operations on these arrays.
